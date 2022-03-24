@@ -6,6 +6,7 @@ let yourArray = [
     [{
       'three' : 3,
     }],
+    "four",
     true,
     undefined
   ]
